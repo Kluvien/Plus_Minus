@@ -1,7 +1,7 @@
 # Tugas Problem Solving Plus Minus Di HackerRank
 Kali ini saya akan menjelaskan tentang cara saya mengerjakan tugas yang diberikan oleh dosen saya Anggay Luri Pramana
 
-# QUESTION
+## QUESTION
 Berikut adalah soal yang diberikan dosen saya dalam web bernama HackerRank
 ![image](https://github.com/Kluvien/test/assets/97487829/c9e3f71c-2ab6-44f6-a91d-c9ecae7c8ef4)
 ![image](https://github.com/Kluvien/test/assets/97487829/f972f33d-74dd-4e59-b621-c3c9e09384f1)
@@ -37,7 +37,7 @@ if __name__ == '__main__':
     plusMinus(arr)
 ```
 
-# ANSWER & EXPLANATION
+## ANSWER & EXPLANATION
 Seperti yang sudah saya jelaskan diatas bahwa saya menggunakan bahasa Python 3 untuk mengerjakan tugas berikut dan juga import yang saya gunakan dari pilihan diatas adalah import random. Berikut adalah jawaban kodingan saya:
 ```python
 def plusMinus(arr):
@@ -95,7 +95,7 @@ if __name__ == '__main__':
     
     plusMinus(arr)
 ```
-## Input (stdin)
+### Input (stdin)
 input yang akan di tes dalam web ini ada 2 yaitu:
 
 - yang pertama
@@ -109,7 +109,7 @@ input yang akan di tes dalam web ini ada 2 yaitu:
 1 2 3 -1 -2 -3 0 0
 ```
 
-## Output (stdout)
+### Output (stdout)
 output yang diinginkan pada setiap input seperti berikut:
 - yang pertama
 ```
